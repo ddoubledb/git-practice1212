@@ -6,3 +6,6 @@
 - gitk
 - git reflog
 - git reset --hard 커밋아이디
+- git branch
+- git branch 생성물브랜치이름
+- git branch 브랜치명
