@@ -1,0 +1,8 @@
+# Hello, World!
+## Git Practice
+- git init
+- git add 파일명
+- git commit
+- gitk
+- git reflog
+- git reset --hard 커밋아이디
